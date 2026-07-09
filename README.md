@@ -20,7 +20,7 @@ Your first piece of simple chat logic works, so that when the user says “Yes�
 
 <img width="414" height="863" alt="Screenshot 2026-07-08 at 11 21 18 PM" src="https://github.com/user-attachments/assets/6d7ab265-d532-49fd-b173-9f56e3c7a9e8" />
 
-## Checkpoint 4
+## Checkpoint 3
 
 Come up with your own trivia question, and get it working with the chatbot! When done, your chatbot should ask the first question, tells the user if they got it right, then ask them a second question. Your trivia game must have at least three questions.
 
@@ -30,7 +30,7 @@ Requirements
  - [ ] Game Reset Functionality 
 
 
-## Checkpoint 5
+## Checkpoint 4
 
 Gameify your Trivia Chat! Below are some examples to Gameify your ChatBot.
 
