@@ -1,7 +1,15 @@
 # Trivia Chatbot Lab
 
-Using the starter template, I made a chatbot that will ask the user questions, verify the answer, and continue the game. 
+Using the starter template, I made a chatbot that will ask the user questions, verify the answer, and continue the game. The theme is Lord of The Rings trivia.
 
+
+## Features
+
+https://github.com/user-attachments/assets/4f1c3613-482a-4759-8d7d-a2e2ac51e3ce
+
+## Tech Stack
+- React Native
+- Gifted Chat
 
 ## Parameters for the triviachat lab project
 - When the user says “Yes” the chatbot asks a question, and if the user says anything else the chatbot politely tells the user to say “Yes” to start.  
