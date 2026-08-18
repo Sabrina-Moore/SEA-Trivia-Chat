@@ -1,4 +1,4 @@
-# trivia Chatbot Lab
+# Trivia Chatbot Lab
 
 Using the starter template, I made a chatbot that will ask the user questions, verify the answer, and continue the game. 
 
